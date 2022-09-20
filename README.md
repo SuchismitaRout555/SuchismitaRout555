@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Suchismita Rout</h1>
-<h3 align="center">👋 Hi, I’m Suchismita 👀 I’m interested in Problem Solving, Data Strutures, Web Development and Andriod Development. 🌱 I’m currently learning Java, WebD and DSA. 💞️ I’m looking to collaborate on Full Stack Projects and New Ideas.</h3>
+<h3 align="center"> 👀 I’m interested in Problem Solving, Data Strutures, Web Development and Andriod Development. 🌱 I’m currently learning Java, WebD and DSA. 💞️ I’m looking to collaborate on Full Stack Projects and New Ideas.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchismitarout555&label=Profile%20views&color=0e75b6&style=flat" alt="suchismitarout555" /> </p>
