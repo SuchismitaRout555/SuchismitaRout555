@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **suchismitarout1111@gmail.com**
 
-- 📄 Know about my experiences [https://app.luminpdf.com/viewer/630650ef7669a3b2819e9765](https://app.luminpdf.com/viewer/630650ef7669a3b2819e9765)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BNaN0v6YXoDl73nkpVgJuDMYbrZeBFuv/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
