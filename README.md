@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://SuchismitaRout555.io)
 
 
-<h1 align="center">Hi 👋, I'm Suchismita Rout Currently Pursuing Computer Science Engineering From Gandhi Institute For Technology, Bhubaneswar!
+<h1 align="center">Hi 👋, I'm Suchismita Rout.
 </h1>
 <h3 align="center"> 👀 I’m interested in Problem Solving, Data Strutures, Web Development and Andriod Development. 🌱 I’m currently learning MERN stack. 💞️ I’m looking to collaborate on Full Stack Projects and New Ideas.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.keepsolid.com/blog/wp-content/uploads/2018/12/giphy-article-top-tools-for-managers.gif">
@@ -12,6 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/just_me_coding" target="blank"><img src="https://img.shields.io/twitter/follow/just_me_coding?logo=twitter&style=for-the-badge" alt="just_me_coding" /></a> </p>
 
+- 🏫 Currently Pursuing Computer Science Engineering From Gandhi Institute For Technology, Bhubaneswar!
 - 👩‍💻🌱 From my childhood I was very Passionate about Technology and curious about how the things works .
 
 - 👩‍💻 All of my projects are available at [https://suchismitarout555.github.io/](https://suchismitarout555.github.io/)
