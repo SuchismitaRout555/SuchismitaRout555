@@ -1,17 +1,16 @@
-
-
+![MasterHead](https://shared.ontariotechu.ca/shared/faculty/feas/engineering-outreach/girls-programming/coding-club-banner.png)
 <h1 align="center">Hi 👋, I'm Suchismita</h1>
 <h3 align="center">About Me 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchismitarout555&label=Profile%20views&color=0e75b6&style=flat" alt="suchismitarout555" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suchismitarout555" alt="suchismitarout555" /></a> </p>
-
-
-
-- 🔭 I’m always trying to grow and learn something new ✈️.
-- ⭐ I’m looking for Software engineering internship opportunities 🙋.
+<img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+- 🔭 I’m always trying to grow and learn something new ✈️
+- 
+- ⭐ I’m looking for Software engineering internship opportunities 🙋
+- 
 - 🤝 I’m interested in solving problems and building software that impact people around me 🙌
+- 
 - 👩‍💻I am passionate about Web Dev (MERN).
 
 - 👨‍💻 All of my projects are available at [https://suchismitarout555.github.io/](https://suchismitarout555.github.io/)
