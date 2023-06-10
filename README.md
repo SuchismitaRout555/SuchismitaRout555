@@ -5,9 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchismitarout555&label=Profile%20views&color=0e75b6&style=flat" alt="suchismitarout555" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suchismitarout555" alt="suchismitarout555" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/just_me_coding" target="blank"><img src="https://img.shields.io/twitter/follow/just_me_coding?logo=twitter&style=for-the-badge" alt="just_me_coding" /></a> </p>
+
+- 🔭 I’m always trying to grow and learn something new ✈️.
+- ⭐ I’m looking for Software engineering internship opportunities 🙋.
+- 🤝 I’m interested in solving problems and building software that impact people around me 🙌
+- 👩‍💻I am passionate about Web Dev (MERN).
 
 - 👨‍💻 All of my projects are available at [https://suchismitarout555.github.io/](https://suchismitarout555.github.io/)
 
