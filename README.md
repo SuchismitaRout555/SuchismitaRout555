@@ -6,16 +6,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 - 🔭 I’m always trying to grow and learn something new ✈️
-- 
-- ⭐ I’m looking for Software engineering internship opportunities 🙋
-- 
-- 🤝 I’m interested in solving problems and building software that impact people around me 🙌
-- 
-- 👩‍💻I am passionate about Web Dev (MERN).
 
-- 👨‍💻 All of my projects are available at [https://suchismitarout555.github.io/](https://suchismitarout555.github.io/)
+- ⭐ I'm looking for the role of an Software Engineer 🙋‍♀️.
+  
+- 🤝 I’m interested in solving problems and building software that impact people around me 🙌.
+  
+- 👩‍💻 I am passionate about Web Dev (MERN) and Learning DevOps.
+  
+- 👩‍💻 All of my projects are available at [https://suchismitarout555.github.io/]
 
-- 📝 I regularly write articles on [https://medium.com/@suchismita1111](https://medium.com/@suchismita1111)
 
 - 📫 How to reach me **suchismitarout1111@gmail.com**
 
